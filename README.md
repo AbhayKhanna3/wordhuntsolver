@@ -13,7 +13,7 @@ https://medium.com/@abhay.khanna_37314/word-hunt-cracking-the-code-9344188b1edb
 
 # How To Use
 
-1. [Download](https://github.com/nang149/WordHunt-Solver/archive/master.zip) the Github Repository, and extract all
+1. [Download](https://github.com/AbhayKhanna3/wordhuntsolver/archive/refs/heads/main.zip) the Github Repository, and extract all
 
 2. To run, click WordHuntSolver.exe
 
